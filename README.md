@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center"> Olá, bem vindo ao meu github!(●'◡'●)</h1>
+<p>Tenho 19 anos, me chamo André Lucas, trabalho atualmente como desenvolvedor Delphi na Alterdata Software</p>
 <!--
 **Andre-Lucas-093/Andre-Lucas-093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
