@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, Welcome to my github!(●'◡'●)/</h1>
-<p>My name is André Lucas, I'm 21 years old, I'm currently unemployed, I live in Teresópolis RJ<p>
+<p>My name is André Lucas, I'm 21 years old, I live in Teresópolis RJ<p>
 <p>Currently self learning front end so I can contribute as a Fullstack dev </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-Lucas-093&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
