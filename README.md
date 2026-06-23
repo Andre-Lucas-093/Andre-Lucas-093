@@ -4,4 +4,4 @@
 <p>Currently in a computer science major </p>
 
 
-![github-user-contribution](https://user-images.githubusercontent.com/60665937/222279416-782b661a-c855-4c66-b30b-400ba5c941a4.svg)
+![snake animation](https://raw.githubusercontent.com/Andre-Lucas-093/Andre-Lucas-093/custom-snake-svg/github-snake.svg)
